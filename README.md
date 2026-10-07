@@ -153,7 +153,7 @@ If you found this curated list helpful for evaluating API gateways or choosing y
 
 1. Fork the repo. 🍴
 2. Add/edit entries in `README.md` (follow existing table or list formatting). 📝
-3. Include: name, link, 1–2 sentence factual description, and clear pricing or star count tags. 🏷️
+3. Include: name, link, 1–2 sentence factual description, and clear pricing or Stars_Count tags. 🏷️
 4. Submit a Pull Request with a short explanation of your changes. 🚀
 
 ---
